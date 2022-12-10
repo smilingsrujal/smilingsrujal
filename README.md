@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smilingsrujal
 - 👀 I’m interested in do github
 - 🌱 I’m currently learning computer science
-- 📫 How to reach me on srujalpatel@047 
+- 📫 you can reach me on gmail ,my gmail id: srujalpatel@047 
 
 <!---
 smilingsrujal/smilingsrujal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
